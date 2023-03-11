@@ -3,8 +3,7 @@
 int main ()
 
 {
-    for(int i=0 ; i<=10;i++)//loop
-    {//loop
+   
 
 
 
@@ -62,7 +61,7 @@ int main ()
 
    }//else
 
-    } //for loop
+  
     return 0;
 
 }
