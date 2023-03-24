@@ -46,4 +46,5 @@ int main() {
     printf("%d moeda(s) de R$ 0.05\n", k);
     printf("%d moeda(s) de R$ 0.01\n", l);
     return 0;
+    
 }
